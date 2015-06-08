@@ -1,0 +1,61 @@
+get wd
+getwd
+getwd()
+setwd("~/R-Script")
+getwd()
+dir()
+myfunction()
+myfunction()
+source(myfunction.r)
+source(myfunction)
+myfunction()
+ls
+ls()
+getwd()
+source(myfunction.R)
+dir
+dir()
+myfunction.R
+ls()
+getwd()
+ls()
+ls()
+source(myfunction.R)
+getwd()
+dir()
+source("myfunction.R")
+x=2
+myfunction()
+myfunction()
+myfunction()
+second
+second()
+second()
+source("myfunction.R")
+second()
+second(4)
+second(4)
+ls()
+second(4)
+source("myfunction.R")
+second(4)
+second(4)
+second(4)
+second(4)
+second(4)
+second(4)
+second(4)
+second(4)
+second(4:10)
+clear
+cl
+clr
+help clear
+?clear
+??clear
+?clean
+??clean
+??remove
+git clone
+get init
+git init
